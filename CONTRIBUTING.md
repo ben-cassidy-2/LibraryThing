@@ -29,7 +29,7 @@ Pull request titles should follow the [conventional commit](https://www.conventi
 
 ### Style
 
-In general, the style that the [.NET project uses](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) applies.
+In general, the style that the [.NET project uses](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) applies. The granular style specifications can be found in the [.editorconfig](.editorconfig) file.
 
 ### Memory Safety
 
