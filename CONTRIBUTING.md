@@ -8,7 +8,22 @@ To contribute code, you need to [fork this repository](https://github.com/ben-ca
 
 ## Pull Request Format
 
-Pull request titles should follow the [conventional commit](https://www.conventionalcommits.org/) specification.
+Pull request titles should follow the [conventional commit](https://www.conventionalcommits.org/) specification. In this repository, PR titles should begin with one of:
+
+| Prefix    | Used for                                                      |
+|-----------|---------------------------------------------------------------|
+| Feat:     | A new feature                                                 |
+| Fix:      | A bug fix                                                     |
+| Docs:     | Documentation only changes                                    |
+| Style:    | Changes that do not affect the meaning of the code            |
+| Refactor: | A code change that neither fixes a bug nor adds a feature     |
+| Perf:     | A code change that improves performance                       |
+| Test:     | Adding missing tests or correcting existing tests             |
+| Build:    | Changes that affect the build system or external dependencies |
+| CI:       | Changes to our CI configuration files and scripts             |
+| Chore:    | Other changes that don't modify src or test files             |
+| Revert:   | Reverts a previous commit                                     |
+
 
 ## Code Standards
 
